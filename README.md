@@ -158,4 +158,4 @@ Enter student details when prompted to receive predicted results.
 ## 👤 Author
 
 Yaswanth Addula  
-B.Tech – Computer Science / Data Science
+B.Tech – Computer Science / AI &DS
